@@ -12,7 +12,8 @@
 - 🤖 Passionate about Applied AI, NLP, CV, and Agentic Systems  
 - 🧠 Love building systems that reason, automate, and solve real-world problems  
 - 💼 Experience in Machine Learning, Computer Vision, RAG, and multi-agent systems  
-- 🌱 Currently diving deeper into **Reinforcement Learning**, **Graph RAG**, and **MLOps**
+- 🌱 Currently diving deeper into **Reinforcement Learning**, **Graph RAG**, and **MLOps**  
+- 🌐 Check out my portfolio: [**funny-peony-01c787.netlify.app**](https://funny-peony-01c787.netlify.app/)
 
 ---
 

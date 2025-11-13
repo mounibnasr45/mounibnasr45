@@ -72,7 +72,7 @@ Collaborative + Content-based filtering with 0.86 RMSE
 PPO agent for early sepsis detection using ICU time-series  
 ➡️ *GitHub:* https://github.com/mounibnasr45/sepsis-
 
-### 🔹 **Tunisian Law Assistant (RAG + Agents)**
+### 🔹 **Tunisian Law Assistant (RAG)**
 Intelligent chatbot for Tunisian legislation  
 ➡️ *GitHub:* https://github.com/mounibnasr45/Agentic_Tn_law
 

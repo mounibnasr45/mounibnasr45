@@ -18,9 +18,9 @@ I build production AI systems — multi-agent pipelines, RAG architectures, NLP 
 
 My background spans generative AI, applied NLP (extraction, retrieval, multilingual processing), computer vision, and independent research on ANN indexing. I care about systems that are reliable, observable, and actually used.
 
-- 🎓 Final-year Software Engineering student at ISIMM (Intelligent & Distributed Systems), expected Jul 2026
-- 🌍 Native Arabic · French B2 · English B2
-- 📄 Open to AI/NLP engineering roles in Tunisia and remotely
+-  Final-year Software Engineering student at ISIMM (Intelligent & Distributed Systems), expected Jul 2026
+-  Native Arabic · French B2 · English B2
+-  Open to AI/NLP engineering roles in Tunisia and remotely
 
 ---
 

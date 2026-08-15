@@ -14,9 +14,8 @@
 
 ## About
 
-AI Software Engineer with hands-on, production experience building generative AI systems: multi-agent LangGraph orchestration, hybrid RAG pipelines (dense
-+ lexical retrieval), and MCP tool servers, translated into testable, auditable agentic workflows via versioned prompts and Human-in-the-Loop validation.
-+ Comfortable across the full GenAI stack , prompt engineering, LLM agents, retrieval-augmented generation, and cloud AI platforms (Vertex AI, Gemini) , and use
+AI Software Engineer with hands-on, production experience building generative AI systems: multi-agent LangGraph orchestration, hybrid RAG pipelines (dense lexical retrieval), and MCP tool servers, translated into testable, auditable agentic workflows via versioned prompts and Human-in-the-Loop validation.
+Comfortable across the full GenAI stack , prompt engineering, LLM agents, retrieval-augmented generation, and cloud AI platforms (Vertex AI, Gemini) , and use
 AI-assisted engineering tools (Claude Code, GitHub Copilot) as daily productivity multipliers.
 ---
 

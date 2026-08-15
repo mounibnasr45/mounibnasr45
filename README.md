@@ -14,14 +14,10 @@
 
 ## About
 
-I build production AI systems — multi-agent pipelines, RAG architectures, NLP tooling, and computer vision solutions. Currently working as a Junior AI Engineer at AstroLab (Sousse, Tunisia), where I ship the full stack from LLM orchestration to containerised deployment.
-
-My background spans generative AI, applied NLP (extraction, retrieval, multilingual processing), computer vision, and independent research on ANN indexing. I care about systems that are reliable, observable, and actually used.
-
--  Final-year Software Engineering student at ISIMM (Intelligent & Distributed Systems), expected Jul 2026
--  Native Arabic · French B2 · English B2
--  Open to AI/NLP engineering roles in Tunisia and remotely
-
+AI Software Engineer with hands-on, production experience building generative AI systems: multi-agent LangGraph orchestration, hybrid RAG pipelines (dense
++ lexical retrieval), and MCP tool servers, translated into testable, auditable agentic workflows via versioned prompts and Human-in-the-Loop validation.
++ Comfortable across the full GenAI stack , prompt engineering, LLM agents, retrieval-augmented generation, and cloud AI platforms (Vertex AI, Gemini) , and use
+AI-assisted engineering tools (Claude Code, GitHub Copilot) as daily productivity multipliers.
 ---
 
 ## Tech Stack
